@@ -1,0 +1,1 @@
+ self.importScripts('https://cdn.imghaste.com/v1/roadtransport.news/service-worker.js');
