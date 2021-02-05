@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Road Transport News</title>
-    <link href="https://tristanza.github.io/rtn/feed.xml" rel="self" />
-    <link href="https://tristanza.github.io/rtn" />
+    <link href="https://roadtransport.news/feed.xml" rel="self" />
+    <link href="https://roadtransport.news" />
     <updated>2021-02-05T15:58:49+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
-    <id>https://tristanza.github.io/rtn</id>
+    <id>https://roadtransport.news</id>
 
     <entry>
         <title>Contact Road Transport News</title>
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://tristanza.github.io/rtn/contact/"/>
-        <id>https://tristanza.github.io/rtn/contact/</id>
+        <link href="https://roadtransport.news/contact/"/>
+        <id>https://roadtransport.news/contact/</id>
 
         <updated>2021-02-05T15:58:49+02:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://tristanza.github.io/rtn/about/"/>
-        <id>https://tristanza.github.io/rtn/about/</id>
+        <link href="https://roadtransport.news/about/"/>
+        <id>https://roadtransport.news/about/</id>
 
         <updated>2021-02-05T15:55:34+02:00</updated>
             <summary></summary>
@@ -38,20 +38,20 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://tristanza.github.io/rtn/volvo-fh16/"/>
-        <id>https://tristanza.github.io/rtn/volvo-fh16/</id>
+        <link href="https://roadtransport.news/volvo-fh16/"/>
+        <id>https://roadtransport.news/volvo-fh16/</id>
             <category term="Truck Models"/>
 
         <updated>2021-02-05T12:47:18+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tristanza.github.io/rtn/media/posts/8/Volvo-FH16.jpg" alt="Volvo FH16" />
+                        <img src="https://roadtransport.news/media/posts/8/Volvo-FH16.jpg" alt="Volvo FH16" />
                     The VOLVO FH16 production series truck from leading manufacturer Volvo Trucks. When you need engine power to haul any combination weights. Whichever model you choose, these vehicles have enough engine&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tristanza.github.io/rtn/media/posts/8/Volvo-FH16.jpg" alt="Volvo FH16" />
+                    <img src="https://roadtransport.news/media/posts/8/Volvo-FH16.jpg" alt="Volvo FH16" />
                 <p><span style="font-weight: 400;">The VOLVO FH16 production series truck from leading manufacturer Volvo Trucks. When you need engine power to haul any combination weights.</span></p>
 <p><span style="font-weight: 400;">Whichever model you choose, these vehicles have enough engine power and torque to pull any load.</span></p>
 <p><span style="color: #e50303;"><strong>Product highlights:</strong></span></p>
@@ -153,20 +153,20 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://tristanza.github.io/rtn/new-volvo-fh-arrives-in-sa/"/>
-        <id>https://tristanza.github.io/rtn/new-volvo-fh-arrives-in-sa/</id>
+        <link href="https://roadtransport.news/new-volvo-fh-arrives-in-sa/"/>
+        <id>https://roadtransport.news/new-volvo-fh-arrives-in-sa/</id>
             <category term="Launch"/>
 
         <updated>2021-02-05T12:53:53+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tristanza.github.io/rtn/media/posts/7/Volvo-FH-open-road.jpg" alt="Volvo FH open road" />
+                        <img src="https://roadtransport.news/media/posts/7/Volvo-FH-open-road.jpg" alt="Volvo FH open road" />
                     Volvo Trucks’ new Volvo FH is made for a truck’s most precious cargo; the driver. With a re-imagined cab, innovative safety features and a driver-focused working environment, the key aim&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tristanza.github.io/rtn/media/posts/7/Volvo-FH-open-road.jpg" alt="Volvo FH open road" />
+                    <img src="https://roadtransport.news/media/posts/7/Volvo-FH-open-road.jpg" alt="Volvo FH open road" />
                 <p><strong>Volvo Trucks’ new Volvo FH is made for a truck’s most precious cargo; the driver.  </strong></p>
 <p><span style="font-weight: 400;">With a re-imagined cab, innovative safety features and a driver-focused working environment, the key aim of the new design is to give the driver a more productive, safe and comfortable life on the road.</span></p>
 <p><span style="font-weight: 400;">The Volvo FH series has been a favourite among truck drivers for many years, especially for those who spend a good portion of their lives on the road. </span></p>
@@ -185,7 +185,7 @@
 <p><span style="font-weight: 400;">“The presentation of information has improved significantly with the new displays. Interactions that require the driver’s attention are now concentrated on the side display, which is placed within easy reach of the driver’s seat. </span></p>
 <p><span style="font-weight: 400;">Distractions are therefore minimised as key driving information is shown clearly on the user-friendly and easily-viewable instrument display.”</span></p>
 <p><span style="font-weight: 400;">Moving inside the cabin is easier than ever with the new slimmer, ergonomically designed I-Shift gear selector. There is also a wide range of customisation options with new fabrics and colours.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://tristanza.github.io/rtn/media/posts/7/Volvo-FH.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-xs.jpg 300w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-sm.jpg 480w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-md.jpg 768w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-lg.jpg 1024w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-xl.jpg 1360w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-2xl.jpg 1600w"  alt="Volvo FH" width="800" height="300"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://roadtransport.news/media/posts/7/Volvo-FH.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://roadtransport.news/media/posts/7/responsive/Volvo-FH-xs.jpg 300w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-sm.jpg 480w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-md.jpg 768w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-lg.jpg 1024w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-xl.jpg 1360w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-2xl.jpg 1600w"  alt="Volvo FH" width="800" height="300"></figure>
 <p><span style="color: #e50303;"><strong>Sophisticated design &amp; smart technologies</strong></span></p>
 <p><span style="font-weight: 400;">The bold new look of the exterior is characterised by the signature V-shaped headlights which have now been moved outwards to align with the feature line of the cab doors. </span></p>
 <p><span style="font-weight: 400;">The turn indicators have also been moved to the door, giving the truck both improved aerodynamics and a more confident look. </span></p>
@@ -201,7 +201,7 @@
 <p><span style="font-weight: 400;">Volvo Dynamic Steering, with the safety systems Lane Keeping Assist and Stability Assist, will be standard on certain models and also as an option for selected others.</span></p>
 <p><span style="font-weight: 400;">Visibility is further improved by the addition of a passenger corner camera that provides a complementary view of the side of the truck on the side display. </span></p>
 <p><span style="font-weight: 400;">This feature is standard on all models.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://tristanza.github.io/rtn/media/posts/7/Volvo-FH-trucks.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-trucks-xs.jpg 300w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-trucks-sm.jpg 480w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-trucks-md.jpg 768w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-trucks-lg.jpg 1024w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-trucks-xl.jpg 1360w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-trucks-2xl.jpg 1600w"  alt="Volvo FH trucks" width="800" height="459"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://roadtransport.news/media/posts/7/Volvo-FH-trucks.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://roadtransport.news/media/posts/7/responsive/Volvo-FH-trucks-xs.jpg 300w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-trucks-sm.jpg 480w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-trucks-md.jpg 768w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-trucks-lg.jpg 1024w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-trucks-xl.jpg 1360w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-trucks-2xl.jpg 1600w"  alt="Volvo FH trucks" width="800" height="459"></figure>
 <p><span style="color: #e50303;"><strong>Improved fuel efficiency &amp; productivity</strong></span></p>
 <p><span style="font-weight: 400;">Using various driveline and chassis configurations, the new Volvo FH can be tailored to suit a wide range of applications and enable significant fuel and CO² savings. </span></p>
 <p><span style="font-weight: 400;">In long-haul operations for instance, the new Volvo FH with the updated D13A engine with Torque Assist can deliver fuel savings of up to 3%.*</span></p>
@@ -216,7 +216,7 @@
 <p><span style="font-weight: 400;">This relates to emissions from the vehicle during usage, known as tank to wheel.</span></p>
 <p><span style="font-weight: 400;">Productivity, another important customer priority, is further optimised on the Volvo FH due to its capacity for increased front axle loads, as well as tag and pusher axles with improved steering angles to reduce tire wear and improve manoeuvrability. </span></p>
 <p><span style="font-weight: 400;">The truck is also available with Tandem Axle Lift, enabling the rear axle to be disengaged and raised when the truck is not loaded, reducing the fuel consumption. </span></p>
-<figure class="post__image"><img loading="lazy"  src="https://tristanza.github.io/rtn/media/posts/7/Volvo-FH-series.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-series-xs.jpg 300w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-series-sm.jpg 480w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-series-md.jpg 768w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-series-lg.jpg 1024w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-series-xl.jpg 1360w ,https://tristanza.github.io/rtn/media/posts/7/responsive/Volvo-FH-series-2xl.jpg 1600w"  alt="Volvo FH series" width="800" height="436"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://roadtransport.news/media/posts/7/Volvo-FH-series.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://roadtransport.news/media/posts/7/responsive/Volvo-FH-series-xs.jpg 300w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-series-sm.jpg 480w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-series-md.jpg 768w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-series-lg.jpg 1024w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-series-xl.jpg 1360w ,https://roadtransport.news/media/posts/7/responsive/Volvo-FH-series-2xl.jpg 1600w"  alt="Volvo FH series" width="800" height="436"></figure>
 <p><span style="color: #e50303;"><strong>Facts about the new Volvo FH </strong></span></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cabs: Low sleeper cab, Sleeper cab, Globetrotter cab and Globetrotter XL. </span></li>
@@ -230,7 +230,7 @@
 <p><span style="font-weight: 400;">“As long-haul drivers spend so much of their time on the road, we focussed on their comfort, safety and efficiency.  </span></p>
 <p><span style="font-weight: 400;">We believe the new FH delivers on all of that, and more.”</span></p>
 <p><em>*The fuel improvement claim is calculated by comparing costs of diesel D13A Euro 3 with Torque Assist to D13A Euro 3 without Torque Assist.  Actual fuel economy may vary depending on many factors such as the driver’s experience, use of cruise control, vehicle specification, vehicle load, actual topography, vehicle maintenance and weather conditions.</em></p>
-<p><strong>Now read:</strong> <a href="https://tristanza.github.io/rtn/volvo-trucks-in-biggest-ever-launch/">Volvo Trucks In Biggest Ever Launch</a></p>
+<p><strong>Now read:</strong> <a href="https://roadtransport.news/volvo-trucks-in-biggest-ever-launch/">Volvo Trucks In Biggest Ever Launch</a></p>
             ]]>
         </content>
     </entry>
@@ -239,20 +239,20 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://tristanza.github.io/rtn/serco-gets-frosty-with-sequence-logistics/"/>
-        <id>https://tristanza.github.io/rtn/serco-gets-frosty-with-sequence-logistics/</id>
+        <link href="https://roadtransport.news/serco-gets-frosty-with-sequence-logistics/"/>
+        <id>https://roadtransport.news/serco-gets-frosty-with-sequence-logistics/</id>
             <category term="Trailers"/>
 
         <updated>2021-02-03T14:35:39+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tristanza.github.io/rtn/media/posts/6/Sequence-Logistics-with-Serco-trailer.webp" alt="Sequence Logistics with Serco trailer" />
+                        <img src="https://roadtransport.news/media/posts/6/Sequence-Logistics-with-Serco-trailer.webp" alt="Sequence Logistics with Serco trailer" />
                     In one of Serco’s biggest and most significant deals of 2020, the company has built 28 refrigerated vehicles for Sequence Logistics. The 24 state-of-the-art Protec Steel Frostliner trailers and four&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tristanza.github.io/rtn/media/posts/6/Sequence-Logistics-with-Serco-trailer.webp" alt="Sequence Logistics with Serco trailer" />
+                    <img src="https://roadtransport.news/media/posts/6/Sequence-Logistics-with-Serco-trailer.webp" alt="Sequence Logistics with Serco trailer" />
                 <p><strong>In one of Serco’s biggest and most significant deals of 2020, the company has built 28 refrigerated vehicles for Sequence Logistics.</strong></p>
 <p>The 24 state-of-the-art Protec Steel Frostliner trailers and four truck bodies have been delivered to Sequence Logistics, and are in use transporting frozen and fresh food throughout South Africa from its branches in Johannesburg, Cape Town and Durban.</p>
 <p>The multi-million rand deal is seen as a reflection of Sequence Logistics’ faith in the South African economy despite all the challenges brought on by the Covid-19 pandemic as well as their confidence in the quality and affordability of Serco products.</p>
@@ -273,20 +273,20 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://tristanza.github.io/rtn/ud-trucks-adds-two-croner-models/"/>
-        <id>https://tristanza.github.io/rtn/ud-trucks-adds-two-croner-models/</id>
+        <link href="https://roadtransport.news/ud-trucks-adds-two-croner-models/"/>
+        <id>https://roadtransport.news/ud-trucks-adds-two-croner-models/</id>
             <category term="Launch"/>
 
         <updated>2021-02-05T09:42:39+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tristanza.github.io/rtn/media/posts/5/Croner-LKE-210-freight-carrier.webp" alt="UD Trucks Croner" />
+                        <img src="https://roadtransport.news/media/posts/5/Croner-LKE-210-freight-carrier.webp" alt="UD Trucks Croner" />
                     UD Trucks Southern Africa has announced the launch of two new additions to its Croner range. “The world has changed significantly during the past year, and so has the way&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tristanza.github.io/rtn/media/posts/5/Croner-LKE-210-freight-carrier.webp" alt="UD Trucks Croner" />
+                    <img src="https://roadtransport.news/media/posts/5/Croner-LKE-210-freight-carrier.webp" alt="UD Trucks Croner" />
                 <p><strong>UD Trucks Southern Africa has announced the launch of two new additions to its Croner range.</strong></p>
 <p><span style="font-weight: 400;">“The world has changed significantly during the past year, and so has the way we live our lives and run our businesses,” says Filip Van den Heede, managing director of UD Trucks Southern Africa. </span></p>
 <p><span style="font-weight: 400;">“While adhering to government regulations, we also understand that there is a need to continue with economic activities, and that is why we are more committed than ever to support the logistics industry in the country.”</span></p>
@@ -296,7 +296,7 @@
 <p><span style="font-weight: 400;">Since its launch in 2017, UD Trucks’ Croner range originally operated only in the Heavy Commercial Vehicle (HCV) segment.  </span></p>
 <p><span style="font-weight: 400;">Through UD Trucks’ expansion programme, the new Croner truck-tractor will be classified as an Extra Heavy Commercial Vehicle, operating in the up to 350hp lightweight truck-tractor segment.  </span></p>
 <p><span style="font-weight: 400;">The new LKE 15-tonne freight carrier will operate in the 8-tonne payload segment in the HCV segment. </span></p>
-<figure class="post__image"><img loading="lazy"  src="https://tristanza.github.io/rtn/media/posts/5/Croner-4x2-PKE280-truck-tractor-a-_1_.webp" alt="UD Trucks' Croner distribution truck" width="800" height="534"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://roadtransport.news/media/posts/5/Croner-4x2-PKE280-truck-tractor-a-_1_.webp" alt="UD Trucks' Croner distribution truck" width="800" height="534"></figure>
 <p><span style="font-weight: 400;">Rory Schulz, UD Trucks Southern Africa’s marketing and sales director, says the company is expanding its Croner range to improve their offering in urban and inter-city distribution.</span></p>
 <p><span style="font-weight: 400;">“In the very competitive 8-to-9-tonne payload segment, we saw the need arise for a fuel efficient, high payload unit with good drivability at good value for money.” </span></p>
 <p><span style="font-weight: 400;">“With the new model introductions, we are improving payload, fuel efficiency and adding more driver comfort, as well as extending service intervals,” adds Schulz. </span></p>
@@ -308,7 +308,7 @@
 <p><span style="font-weight: 400;">“The Allison automatic transmissions ease the job at hand for drivers who spend the day in the urban environment, facing long hours of traffic with multiple stops and cargo drops,” explains Schulz. </span></p>
 <p><span style="font-weight: 400;">“The new generation torque converter with early lock-up also ensures a smooth and easy drive so driver fatigue is reduced, which means the driver can concentrate on situational driving.”</span></p>
 <p><span style="font-weight: 400;">“Additionally, the enhanced power shifts lead to more efficient fuel consumption, comfort, manoeuvrability and performance.”</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://tristanza.github.io/rtn/media/posts/5/automatic-transmissions.webp" alt="UD Trucks Automatic Transmission" width="800" height="534"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://roadtransport.news/media/posts/5/automatic-transmissions.webp" alt="UD Trucks Automatic Transmission" width="800" height="534"></figure>
 <p><span style="font-weight: 400;">The Croner 4x2 PKE 280 truck-tractor has a GH8, 8-litre engine and an Allison 3000 automatic transmission series, with similar emphasis on urban and city-to-city distribution, as well as focus on inter-regional haul.  </span></p>
 <p><span style="font-weight: 400;">In 2020, UD Trucks also introduced a Croner 6x2 PDE280 freight carrier, which brings the total of variants in this range to 16 models.  </span></p>
 <p><span style="font-weight: 400;">“The work a vehicle does, and the resources required to do it, are essential to the success of any fleet,” continues Schulz. </span></p>
@@ -324,26 +324,26 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://tristanza.github.io/rtn/mercedes-benz-trucks-retains-lead/"/>
-        <id>https://tristanza.github.io/rtn/mercedes-benz-trucks-retains-lead/</id>
+        <link href="https://roadtransport.news/mercedes-benz-trucks-retains-lead/"/>
+        <id>https://roadtransport.news/mercedes-benz-trucks-retains-lead/</id>
             <category term="Truck Sales"/>
 
         <updated>2021-02-05T15:48:40+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tristanza.github.io/rtn/media/posts/4/Actros-_-Arocs.webp" alt="Mercedes-Benz Trucks International Truck of the Year 2020" />
+                        <img src="https://roadtransport.news/media/posts/4/Actros-_-Arocs.webp" alt="Mercedes-Benz Trucks International Truck of the Year 2020" />
                     Mercedes-Benz Trucks says it achieved market leader position in the Heavy-Duty Truck (HDT) segment in 2020. “We made bold moves last year during tough times and the results are showing,”&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tristanza.github.io/rtn/media/posts/4/Actros-_-Arocs.webp" alt="Mercedes-Benz Trucks International Truck of the Year 2020" />
+                    <img src="https://roadtransport.news/media/posts/4/Actros-_-Arocs.webp" alt="Mercedes-Benz Trucks International Truck of the Year 2020" />
                 <p><strong>Mercedes-Benz Trucks says it achieved market leader position in the Heavy-Duty Truck (HDT) segment in 2020. </strong></p>
 <p><span style="font-weight: 400;">“We made bold moves last year during tough times and the results are showing,” explains Maretha Gerber, Head of Mercedes-Benz Trucks.</span></p>
 <p><span style="font-weight: 400;">“This could not have been possible without the dedication and resilience demonstrated by our internal staff and dealer partners to excel, collaborate, adjust and push ahead through all that was thrown at us and for this we are deeply grateful.”</span></p>
 <p><span style="font-weight: 400;">“We can all agree that 2020 was tough not just for our company, but for the entire trucking industry.”</span></p>
 <p><span style="font-weight: 400;">“It is therefore humbling to celebrate this success, as it attests to the trust our customers continued to place on our brand when working tirelessly, across different industries, under unique operating conditions and for this I would like to sincerely thank all our customers.”</span></p>
-<p><strong>More context:</strong> <a href="https://tristanza.github.io/rtn/commercial-vehicle-sales-plummet-189/">Commercial Vehicle Sales Plummet 18.9%</a><a href="https://tristanza.github.io/rtn/commercial-vehicle-sales-plummet-189/"></a></p>
+<p><strong>More context:</strong> <a href="https://roadtransport.news/commercial-vehicle-sales-plummet-189/">Commercial Vehicle Sales Plummet 18.9%</a><a href="https://roadtransport.news/commercial-vehicle-sales-plummet-189/"></a></p>
 <p><span style="font-weight: 400;">The brand also attributes last year’s performance to the successful launch of the 2020 <a href="http://www.truck-of-the-year.com/" target="_blank" rel="noopener noreferrer">International Truck of the Year</a> title holder the New Actros, which was well received by the South African market due to the ground breaking innovations offered in the range. </span></p>
 <p><span style="font-weight: 400;">In addition, the expansion of the Arocs range with six new models meant that the brand had a complete HDT portfolio to offer to its customers within the segment.</span></p>
 <p><span style="font-weight: 400;">Looking into the start of 2021, as the trucking industry continues to weather the COVID-19 storm, of key importance to the brand remains the determination to deliver uninterrupted sales and service to all customers across Southern Africa.</span></p>
@@ -355,22 +355,22 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://tristanza.github.io/rtn/volvo-trucks-in-biggest-ever-launch/"/>
-        <id>https://tristanza.github.io/rtn/volvo-trucks-in-biggest-ever-launch/</id>
+        <link href="https://roadtransport.news/volvo-trucks-in-biggest-ever-launch/"/>
+        <id>https://roadtransport.news/volvo-trucks-in-biggest-ever-launch/</id>
             <category term="Launch"/>
 
         <updated>2021-02-05T12:51:15+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tristanza.github.io/rtn/media/posts/3/Four-new-trucks-from-Volvo.webp" alt="Volvo Trucks biggest ever launch" />
+                        <img src="https://roadtransport.news/media/posts/3/Four-new-trucks-from-Volvo.webp" alt="Volvo Trucks biggest ever launch" />
                     Volvo Trucks South Africa has introduced four new truck ranges to the local market, with a strong focus on the driver environment, safety and productivity. The launch of the four&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tristanza.github.io/rtn/media/posts/3/Four-new-trucks-from-Volvo.webp" alt="Volvo Trucks biggest ever launch" />
+                    <img src="https://roadtransport.news/media/posts/3/Four-new-trucks-from-Volvo.webp" alt="Volvo Trucks biggest ever launch" />
                 <p><strong>Volvo Trucks South Africa has introduced four new truck ranges to the local market, with a strong focus on the driver environment, safety and productivity.  </strong></p>
-<p><span style="font-weight: 400;">The launch of the four new-generation extra heavy commercial trucks; the <a href="https://tristanza.github.io/rtn/new-volvo-fh-arrives-in-sa/">Volvo FH</a>, FH16, FM and FMX, is the biggest in the company’s history.</span></p>
+<p><span style="font-weight: 400;">The launch of the four new-generation extra heavy commercial trucks; the <a href="https://roadtransport.news/new-volvo-fh-arrives-in-sa/">Volvo FH</a>, FH16, FM and FMX, is the biggest in the company’s history.</span></p>
 <p><span style="font-weight: 400;">“Our aim is to be our customer’s ultimate business partner and help them attract the best drivers in an increasingly competitive market,” says Marcus Hörberg, vice-president of Volvo Group Southern Africa. </span></p>
 <p><span style="font-weight: 400;">“We are really proud of this big forward-looking investment in the future of our company, and ultimately, the success of our customers.”</span></p>
 <p><span style="font-weight: 400;">All the new models are locally assembled in the company’s plant in Durban, KwaZulu-Natal. </span></p>
@@ -391,7 +391,7 @@
 <p><span style="font-weight: 400;">The truck exterior has also been upgraded to reflect the new trucks' properties and create an attractive overall design.</span></p>
 <p>Watch the video below to learn more about the new range from Volvo Trucks</p>
 <figure class="post__video"><iframe loading="lazy" width="700" height="393" src="https://www.youtube.com/embed/ScZAYYwh6gc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Read all about the <a href="https://tristanza.github.io/rtn/volvo-fh16/">Volvo FH16</a></p>
+<p>Read all about the <a href="https://roadtransport.news/volvo-fh16/">Volvo FH16</a></p>
             ]]>
         </content>
     </entry>
@@ -400,20 +400,20 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://tristanza.github.io/rtn/commercial-vehicle-sales-plummet-189/"/>
-        <id>https://tristanza.github.io/rtn/commercial-vehicle-sales-plummet-189/</id>
+        <link href="https://roadtransport.news/commercial-vehicle-sales-plummet-189/"/>
+        <id>https://roadtransport.news/commercial-vehicle-sales-plummet-189/</id>
             <category term="Truck Sales"/>
 
         <updated>2021-02-05T15:51:14+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tristanza.github.io/rtn/media/posts/2/2020-truck-sales-plummet.webp" alt="Isuzu Trucks in an open area" />
+                        <img src="https://roadtransport.news/media/posts/2/2020-truck-sales-plummet.webp" alt="Isuzu Trucks in an open area" />
                     South Africa’s commercial vehicle market was down 18.9% in 2020, according to Isuzu Motors South Africa (IMSAf). IMSAf says it recorded total sales of 2 587 trucks and buses for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tristanza.github.io/rtn/media/posts/2/2020-truck-sales-plummet.webp" alt="Isuzu Trucks in an open area" />
+                    <img src="https://roadtransport.news/media/posts/2/2020-truck-sales-plummet.webp" alt="Isuzu Trucks in an open area" />
                 <p><strong>South Africa’s commercial vehicle market was down 18.9% in 2020, according to Isuzu Motors South Africa (IMSAf).</strong></p>
 <p><span style="font-weight: 400;">IMSAf says it recorded total sales of 2 587 trucks and buses for the year. </span></p>
 <p><span style="font-weight: 400;">The company added that it’s trucks led the charge with total sales of 2 570 units, which represents 13.4% of the overall market.  </span></p>
@@ -434,7 +434,7 @@
 <p><span style="font-weight: 400;">Isuzu’s 7-seater SUV, the mu-X rounded up the 2020 sales with 312 units sold and a market share of 2.3%.</span></p>
 <p><span style="font-weight: 400;">“The Isuzu sales and marketing teams were able to adapt quickly to the changing environment with creative, innovative solutions to offer value to customers while driving traffic to our dealerships. </span></p>
 <p><span style="font-weight: 400;">“We also commend our dealer partners who were able to make the necessary changes and embrace the new technology and methods necessary to operate successfully under Covid-19 regulations,” Uren concludes.</span></p>
-<p><strong>Now read:</strong> <a href="https://tristanza.github.io/rtn/mercedes-benz-trucks-retains-lead/">Mercedes-Benz retains heavy-duty market lead</a></p>
+<p><strong>Now read:</strong> <a href="https://roadtransport.news/mercedes-benz-trucks-retains-lead/">Mercedes-Benz retains heavy-duty market lead</a></p>
 <p> </p>
             ]]>
         </content>

@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://tristanza.github.io/rtn/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://roadtransport.news/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://tristanza.github.io/rtn/</loc>
+<loc>https://roadtransport.news/</loc>
 </url>
 <url>
-<loc>https://tristanza.github.io/rtn/about/</loc>
+<loc>https://roadtransport.news/about/</loc>
 <lastmod>2021-02-05T15:55:34+02:00</lastmod>
 </url>
 <url>
-<loc>https://tristanza.github.io/rtn/commercial-vehicle-sales-plummet-189/</loc>
+<loc>https://roadtransport.news/commercial-vehicle-sales-plummet-189/</loc>
 <lastmod>2021-02-05T15:51:14+02:00</lastmod>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/2/2020-truck-sales-plummet.webp</image:loc>
+<image:loc>https://roadtransport.news/media/posts/2/2020-truck-sales-plummet.webp</image:loc>
 <image:title><![CDATA[Isuzu Trucks in an open area]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://tristanza.github.io/rtn/contact/</loc>
+<loc>https://roadtransport.news/contact/</loc>
 <lastmod>2021-02-05T15:58:49+02:00</lastmod>
 </url>
 <url>
-<loc>https://tristanza.github.io/rtn/mercedes-benz-trucks-retains-lead/</loc>
+<loc>https://roadtransport.news/mercedes-benz-trucks-retains-lead/</loc>
 <lastmod>2021-02-05T15:48:40+02:00</lastmod>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/4/Actros-_-Arocs.webp</image:loc>
+<image:loc>https://roadtransport.news/media/posts/4/Actros-_-Arocs.webp</image:loc>
 <image:title><![CDATA[Mercedes-Benz Trucks International Truck of the Year 2020]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://tristanza.github.io/rtn/new-volvo-fh-arrives-in-sa/</loc>
+<loc>https://roadtransport.news/new-volvo-fh-arrives-in-sa/</loc>
 <lastmod>2021-02-05T12:53:53+02:00</lastmod>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/7/Volvo-FH-open-road.jpg</image:loc>
+<image:loc>https://roadtransport.news/media/posts/7/Volvo-FH-open-road.jpg</image:loc>
 <image:title><![CDATA[Volvo FH open road]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/7/Volvo-FH.jpg</image:loc>
+<image:loc>https://roadtransport.news/media/posts/7/Volvo-FH.jpg</image:loc>
 <image:title><![CDATA[Volvo FH]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/7/Volvo-FH-trucks.jpg</image:loc>
+<image:loc>https://roadtransport.news/media/posts/7/Volvo-FH-trucks.jpg</image:loc>
 <image:title><![CDATA[Volvo FH trucks]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/7/Volvo-FH-series.jpg</image:loc>
+<image:loc>https://roadtransport.news/media/posts/7/Volvo-FH-series.jpg</image:loc>
 <image:title><![CDATA[Volvo FH series]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://tristanza.github.io/rtn/serco-gets-frosty-with-sequence-logistics/</loc>
+<loc>https://roadtransport.news/serco-gets-frosty-with-sequence-logistics/</loc>
 <lastmod>2021-02-03T14:35:39+02:00</lastmod>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/6/Sequence-Logistics-with-Serco-trailer.webp</image:loc>
+<image:loc>https://roadtransport.news/media/posts/6/Sequence-Logistics-with-Serco-trailer.webp</image:loc>
 <image:title><![CDATA[Sequence Logistics with Serco trailer]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://tristanza.github.io/rtn/ud-trucks-adds-two-croner-models/</loc>
+<loc>https://roadtransport.news/ud-trucks-adds-two-croner-models/</loc>
 <lastmod>2021-02-05T09:42:39+02:00</lastmod>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/5/Croner-LKE-210-freight-carrier.webp</image:loc>
+<image:loc>https://roadtransport.news/media/posts/5/Croner-LKE-210-freight-carrier.webp</image:loc>
 <image:title><![CDATA[UD Trucks Croner]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/5/Croner-4x2-PKE280-truck-tractor-a-_1_.webp</image:loc>
+<image:loc>https://roadtransport.news/media/posts/5/Croner-4x2-PKE280-truck-tractor-a-_1_.webp</image:loc>
 <image:title><![CDATA[UD Trucks' Croner distribution truck]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/5/automatic-transmissions.webp</image:loc>
+<image:loc>https://roadtransport.news/media/posts/5/automatic-transmissions.webp</image:loc>
 <image:title><![CDATA[UD Trucks Automatic Transmission]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://tristanza.github.io/rtn/volvo-fh16/</loc>
+<loc>https://roadtransport.news/volvo-fh16/</loc>
 <lastmod>2021-02-05T12:47:18+02:00</lastmod>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/8/Volvo-FH16.jpg</image:loc>
+<image:loc>https://roadtransport.news/media/posts/8/Volvo-FH16.jpg</image:loc>
 <image:title><![CDATA[Volvo FH16]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://tristanza.github.io/rtn/volvo-trucks-in-biggest-ever-launch/</loc>
+<loc>https://roadtransport.news/volvo-trucks-in-biggest-ever-launch/</loc>
 <lastmod>2021-02-05T12:51:15+02:00</lastmod>
 <image:image>
-<image:loc>https://tristanza.github.io/rtn/media/posts/3/Four-new-trucks-from-Volvo.webp</image:loc>
+<image:loc>https://roadtransport.news/media/posts/3/Four-new-trucks-from-Volvo.webp</image:loc>
 <image:title><![CDATA[Volvo Trucks biggest ever launch]]></image:title>
 </image:image>
 </url>
