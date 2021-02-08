@@ -3,7 +3,7 @@
     <title>Road Transport News</title>
     <link href="https://roadtransport.news/feed.xml" rel="self" />
     <link href="https://roadtransport.news" />
-    <updated>2021-02-08T09:01:09+02:00</updated>
+    <updated>2021-02-08T12:28:01+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
@@ -362,7 +362,7 @@
         <id>https://roadtransport.news/serco-gets-frosty-with-sequence-logistics/</id>
             <category term="Trailers"/>
 
-        <updated>2021-02-03T14:35:39+02:00</updated>
+        <updated>2021-02-08T12:28:01+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://roadtransport.news/media/posts/6/Sequence-Logistics-with-Serco-trailer.webp" alt="Sequence Logistics with Serco trailer" />
@@ -384,6 +384,7 @@
 <p>“The team worked hard to meet the deadline!”</p>
 <p>CEO of Serco Clinton Holcroft said with not a lot of business around there had been hectic competition for the Sequence Logistics contract.</p>
 <p>“So I see it as a feather in our cap that after appraising all the different options available they decided the value proposition we offer is the best and gave us the whole order.”</p>
+<p class="msg msg--highlight ">Now read: <a href="https://roadtransport.news/how-to-get-a-cold-chain-edge/">How To Get A Cold Chain Edge</a></p>
             ]]>
         </content>
     </entry>
