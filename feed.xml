@@ -3,7 +3,7 @@
     <title>Road Transport News</title>
     <link href="https://roadtransport.news/feed.xml" rel="self" />
     <link href="https://roadtransport.news" />
-    <updated>2021-02-09T09:20:47+02:00</updated>
+    <updated>2021-02-09T10:11:31+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
@@ -46,14 +46,16 @@
         <id>https://roadtransport.news/telematics-eases-vaccine-rollout/</id>
             <category term="Telematics"/>
 
-        <updated>2021-02-09T09:20:47+02:00</updated>
+        <updated>2021-02-09T10:11:31+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://roadtransport.news/media/posts/13/Vaccine-distribution-logistics.jpg" alt="Vaccine logistics and distribution" />
                     President Cyril Ramaphosa has described the rollout of the COVID-19 vaccine as “the largest and most complex logistical undertaking in SA’s history”. Acquiring the vaccine is only the start of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://roadtransport.news/media/posts/13/Vaccine-distribution-logistics.jpg" alt="Vaccine logistics and distribution" />
                 <p class="paragraph"><span class="normaltextrun"><span lang="EN-GB">President Cyril Ramaphosa has described the rollout of the COVID-19 vaccine as “the largest and most complex logistical undertaking in SA’s history”. </span></span></p>
 <p class="paragraph"><span class="normaltextrun"><span lang="EN-GB">Acquiring the vaccine is only the start of SA achieving its target of group immunity – the vaccine still needs to be distributed safely. </span></span></p>
 <p class="paragraph"><span class="normaltextrun"><span lang="EN-GB">That means maintaining it at the right temperature throughout the transportation process, and tracking distribution trucks to ensure product integrity and avoid tampering or theft. </span></span></p>
