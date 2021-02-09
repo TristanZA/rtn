@@ -3,7 +3,7 @@
     <title>Road Transport News</title>
     <link href="https://roadtransport.news/feed.xml" rel="self" />
     <link href="https://roadtransport.news" />
-    <updated>2021-02-09T20:17:52+02:00</updated>
+    <updated>2021-02-09T20:30:07+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
@@ -78,7 +78,7 @@
         <id>https://roadtransport.news/telematics-eases-vaccine-rollout/</id>
             <category term="Telematics"/>
 
-        <updated>2021-02-09T20:17:52+02:00</updated>
+        <updated>2021-02-09T20:23:42+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://roadtransport.news/media/posts/13/Vaccine-distribution-logistics.jpg" alt="Vaccine logistics and distribution" />
@@ -110,7 +110,7 @@
         <id>https://roadtransport.news/how-to-get-a-cold-chain-edge/</id>
             <category term="Logistics"/>
 
-        <updated>2021-02-08T19:46:44+02:00</updated>
+        <updated>2021-02-09T20:30:07+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://roadtransport.news/media/posts/12/Cold-chain-logistics.jpg" alt="cold chain logistics" />
@@ -126,26 +126,27 @@
 <p><span style="color: #e50303;"><strong>Challenging conditions in cold chain management</strong></span></p>
 <p>With the imminent rollout of Covid-19 vaccines, temperature and humidity monitoring have been the subject of much public attention.</p>
 <p>This is because the vaccines have to be stored and transported under stringent temperature conditions. Maintaining the necessary temperature conditions requires two things: cooling infrastructure across the entire logistics chain, and electricity to run the cooling equipment.</p>
+<p><strong>Related:</strong> <a href="https://roadtransport.news/telematics-eases-vaccine-rollout/">Telematics Eases Vaccine Rollout</a></p>
 <p>Both of these factors can be challenging to uphold in South Africa, more so given the unreliability of the national power supply, which makes temperature monitoring even more important than ever.</p>
 <p>Furthermore, when the cold chain is broken temperature-sensitive perishable foods are degraded in terms of quality, shorter shelf life and in extreme cases, adverse health-related reactions for the people who consume such products.</p>
 <p>In terms of medicine - particularly vaccines - the impact of a broken cold chain can be even worse, as medication loses its efficacy and can even cause harm if administered.</p>
-<p><span style="color: #e50303;"><strong> </strong><strong>Technological advancements in temperature monitoring</strong></span></p>
+<p><span style="color: #e50303;"><strong>Technological advancements in temperature monitoring</strong></span></p>
 <p>Cloud technology has greatly increased the efficiency of temperature monitoring systems and temperature probes can now transmit their readings automatically in real-time to a control unit which then communicates with a cloud-based platform and secure database.</p>
 <p>This automatic monitoring eliminates the need for human intervention and manual temperature recording, which further facilitates Covid-19 physical distancing requirements.</p>
-<p><span style="color: #e50303;"><strong> </strong><strong>Smart stock protection</strong></span></p>
+<p><span style="color: #e50303;"><strong>Smart stock protection</strong></span></p>
 <p>Automated monitoring through a cloud-based platform makes it possible to raise alerts electronically via SMS or email notification, should the temperature fluctuate outside of the permissible range.</p>
 <p>Such an alert system allows the organisation to be proactive when dealing with power outages or cooling equipment failures so that corrective action can be taken before damage is done.</p>
 <p>With such a monitoring system, the value to business lies in the data.</p>
 <p>In addition to providing actionable alerts, the system also provides a data trail of temperature readings that is fully secure, auditable and free from human error.</p>
 <p>This means that compliance reporting for the various controlling authorities can be automated, and it becomes much easier to protect stock that is often worth millions of Rands without relying on manual monitoring and reporting. </p>
-<p><span style="color: #e50303;"><strong> </strong><strong>Careful consideration</strong></span></p>
+<p><span style="color: #e50303;"><strong>Careful consideration</strong></span></p>
 <p>When choosing a temperature and humidity monitoring system, local businesses have many factors to consider.</p>
 <p>Given the instability of electricity supply, it’s important to look for a system that provides accuracy.</p>
 <p>It’s also important to examine inherent system redundancy, which needs to provide a 99.9% uptime.</p>
 <p>Additionally, the chosen system needs to be recognised by the relevant accreditation bodies according to local and global standards.</p>
 <p>Just as important as credentials are, so is the service and support provided by the supplier, so look for references from large blue-chip clients in the medical or food sectors.</p>
 <p>Lastly, ease of configuration, use and operation must be considered and should all be capable of remote management.</p>
-<p><strong> </strong>While the market offers a lot of choice in temperature monitoring systems, it is critical not to choose based on the price tag.</p>
+<p>While the market offers a lot of choice in temperature monitoring systems, it is critical not to choose based on the price tag.</p>
 <p>Instead, organisations must consider the cost of losing stock, and the impact on their bottom line if their cold chain is compromised.</p>
 <p>This will make it clear that the right cloud-based temperature and humidity monitoring system is a tool necessary for a competitive edge, and not simply another business operating expense.</p>
             ]]>
