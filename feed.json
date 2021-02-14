@@ -5,6 +5,7 @@
     "home_page_url": "https://roadtransport.news",
     "feed_url": "https://roadtransport.news/feed.json",
     "user_comment": "",
+    "icon": "https://roadtransport.news/media/website/Road-Transport-News-Website-Logo.png",
     "author": {
         "name": "Tristan Wiggill"
     },
