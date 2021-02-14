@@ -3,7 +3,7 @@
     <title>Road Transport News</title>
     <link href="https://roadtransport.news/feed.xml" rel="self" />
     <link href="https://roadtransport.news" />
-    <updated>2021-02-14T11:28:57+02:00</updated>
+    <updated>2021-02-14T18:33:17+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
@@ -16,9 +16,10 @@
         </author>
         <link href="https://roadtransport.news/n4-upgrade-to-be-completed-in-july/"/>
         <id>https://roadtransport.news/n4-upgrade-to-be-completed-in-july/</id>
+            <category term="Press Release"/>
             <category term="National Roads"/>
 
-        <updated>2021-02-11T14:18:17+02:00</updated>
+        <updated>2021-02-14T18:29:21+02:00</updated>
             <summary>
                 <![CDATA[
                     The recent rains have wreaked havoc on many of the country’s roads causing millions of rands in damage to road infrastructure. It is noted that poorly maintained roads impact negatively&hellip;
@@ -33,9 +34,10 @@
         </author>
         <link href="https://roadtransport.news/insurance-and-driver-training-intertwined/"/>
         <id>https://roadtransport.news/insurance-and-driver-training-intertwined/</id>
+            <category term="Opinion"/>
             <category term="Driver Training"/>
 
-        <updated>2021-02-11T11:51:46+02:00</updated>
+        <updated>2021-02-14T18:33:17+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://roadtransport.news/media/posts/17/driver-training.jpg" alt="driver training" />
@@ -67,9 +69,10 @@
         </author>
         <link href="https://roadtransport.news/stop-aarto-now-road-freight-association/"/>
         <id>https://roadtransport.news/stop-aarto-now-road-freight-association/</id>
+            <category term="Press Release"/>
             <category term="AARTO"/>
 
-        <updated>2021-02-10T22:46:01+02:00</updated>
+        <updated>2021-02-14T18:29:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://roadtransport.news/media/posts/15/RFA-slams-AARTO.jpg" alt="AARTO slammed by RFA" />
@@ -86,8 +89,9 @@
         <link href="https://roadtransport.news/more-mb-truck-models-get-fleetboard/"/>
         <id>https://roadtransport.news/more-mb-truck-models-get-fleetboard/</id>
             <category term="Telematics"/>
+            <category term="Press Release"/>
 
-        <updated>2021-02-10T22:53:52+02:00</updated>
+        <updated>2021-02-14T18:29:47+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://roadtransport.news/media/posts/14/MB-Trucks-Fleetboard.jpg" alt="Mercedes-Benz Fleetboard" />
@@ -104,8 +108,9 @@
         <link href="https://roadtransport.news/telematics-eases-vaccine-rollout/"/>
         <id>https://roadtransport.news/telematics-eases-vaccine-rollout/</id>
             <category term="Telematics"/>
+            <category term="Press Release"/>
 
-        <updated>2021-02-10T22:51:25+02:00</updated>
+        <updated>2021-02-14T18:30:11+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://roadtransport.news/media/posts/13/Vaccine-distribution-logistics.jpg" alt="Vaccine logistics and distribution" />
@@ -121,9 +126,10 @@
         </author>
         <link href="https://roadtransport.news/how-to-get-a-cold-chain-edge/"/>
         <id>https://roadtransport.news/how-to-get-a-cold-chain-edge/</id>
+            <category term="Opinion"/>
             <category term="Logistics"/>
 
-        <updated>2021-02-10T22:56:50+02:00</updated>
+        <updated>2021-02-14T18:31:26+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://roadtransport.news/media/posts/12/Cold-chain-logistics.jpg" alt="cold chain logistics" />
@@ -139,9 +145,10 @@
         </author>
         <link href="https://roadtransport.news/ford-trucks-adds-product-variants/"/>
         <id>https://roadtransport.news/ford-trucks-adds-product-variants/</id>
+            <category term="Press Release"/>
             <category term="International Truck Models"/>
 
-        <updated>2021-02-10T22:59:48+02:00</updated>
+        <updated>2021-02-14T18:32:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://roadtransport.news/media/posts/11/Ford-Trucks-Blackline.jpg" alt="Ford Trucks Blackline" />
