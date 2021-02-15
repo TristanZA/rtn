@@ -3,12 +3,48 @@
     <title>feed</title>
     <link href="https://roadtransport.news/feed.xml" rel="self" />
     <link href="https://roadtransport.news" />
-    <updated>2021-02-14T18:33:17+02:00</updated>
+    <updated>2021-02-15T14:32:56+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://roadtransport.news</id>
 
+    <entry>
+        <title>Actros Fleet The Highlight At Truck Auction</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://roadtransport.news/actros-fleet-the-highlight-at-truck-auction/"/>
+        <id>https://roadtransport.news/actros-fleet-the-highlight-at-truck-auction/</id>
+            <category term="Truck Auctions"/>
+
+        <updated>2021-02-15T14:32:56+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://roadtransport.news/media/posts/19/Truck-auction.JPG" alt="truck auction aerial view" />
+                    Park Village Auctions says it has secured a bevvy of quality, bank-repossessed rigid trucks, tractors, and trailers for their latest auction. Stand-out lots for the day include a fleet of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://roadtransport.news/media/posts/19/Truck-auction.JPG" alt="truck auction aerial view" />
+                <p><strong>Park Village Auctions says it has secured a bevvy of quality, bank-repossessed rigid trucks, tractors, and trailers for their latest auction.</strong></p>
+<p><span style="font-weight: 400;">Stand-out lots for the day include a fleet of 2018 Mercedes Benz Actros 2645 truck tractors, a 2017 MAN TGM 25-280 rigid, a collection of 2017 GRW tanker trailers, and a Kubota M130 tractor.</span></p>
+<p><span style="font-weight: 400;">“The banks have commissioned a great selection of vehicles that offer inviting savings to fleet and logistics managers across the board,” says PVA spokesperson, Natashia Goosen.</span></p>
+<p><span style="font-weight: 400;">“This auction is not to be missed.”</span></p>
+<p><span style="font-weight: 400;">A Scania G460, a MAN TGS 17-374, a UD Quon GW 26-490, an Iveco Stralis 480, a Volvo 420, a Freightliner Argosy and International Pro Sleeper make up the remaining truck tractor stock for the day.</span></p>
+<p><span style="font-weight: 400;">Other rigid trucks to be sold include a Powerstar 4035 and a Powerstar 2628 tipper truck, a 2016 FAW 8-140FL and various other models from manufacturers such as Tata, Mercedes-Benz, Hino, Nissan, Mitsubishi, Isuzu and Toyota.</span></p>
+<p><span style="font-weight: 400;">Various Paramount, Henred Fruehauf, Kearny’s, Roadhog, Afrit, SA Truck Bodies and Top Trailers will also be on the block.</span></p>
+<p><span style="font-weight: 400;">Hyster forklifts, a Caterpillar 140k Grader and Caterpillar 226B Skidsteer will conclude the sales for the day.</span></p>
+<p><span style="font-weight: 400;">“This will be a simulcast auction, which is when we stream the live auction to online participants who bid against people on the floor in real-time,” explains Goosen.</span></p>
+<p><span style="font-weight: 400;">The auction will commence at 10:30 am on Thursday, 25 February. </span></p>
+<p><span style="font-weight: 400;">Viewing will be held the day before (Wednesday the 24th) at PVA’s truck yard at gate number 2 of the Nasrec Showgrounds. </span></p>
+<p><span style="font-weight: 400;">The Nasrec Showgrounds can be found at Number 1 Nasrec Road, Johannesburg.</span></p>
+<p><span style="font-weight: 400;">Due to Covid-19 safety protocols, the number of people permitted on-site for viewing and attendance at the auction is limited and booking is essential. </span></p>
+<p><span style="font-weight: 400;">For more information, or to register for the auction, visit <a href="https://www.parkvillageauctions.co.za" target="_blank" rel="noopener noreferrer">www.parkvillageauctions.co.za</a> and use web reference 678.</span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>N4 Upgrade To Be Completed In July</title>
         <author>
@@ -357,40 +393,6 @@
 <p><strong>Email:</strong> <a href="mailto:tristan@roadtransport.news">tristan@roadtransport.news</a></p>
 <p><strong>Opening hours:</strong> Monday to Friday, 07:00am to 6:00pm</p>
 <p>Don't forget to follow and engage with Road Transport News on <a href="https://www.facebook.com/RoadTransportNews" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://twitter.com/roadtransportza" target="_blank" rel="noopener noreferrer">Twitter,</a> <a href="https://instagram.com/road_transport_news" target="_blank" rel="noopener noreferrer">Instagram</a> and <a href="https://www.linkedin.com/company/road-transport-news-za" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About Road Transport News</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://roadtransport.news/about/"/>
-        <id>https://roadtransport.news/about/</id>
-
-        <updated>2021-02-14T11:04:13+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Road Transport News is the place to get news about the road transport industry in South Africa. The news website is updated regularly with stories about road transport, logistics, trucks&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Road Transport News is the place to get news about the road transport industry in South Africa.</p>
-<p>The news website is updated regularly with stories about road transport, <a href="https://roadtransport.news/tags/logistics/">logistics</a>, trucks and buses.</p>
-<p>The fast, secure and mobile friendly website reports on general developments and happenings within the road transport sector.</p>
-<p>We cover <a href="https://roadtransport.news/tags/launch/">truck and bus launches</a> in South Africa as well as the industries that support trucking and logistics such as tyres, <a href="https://roadtransport.news/tags/trailers/">trailers</a>, <a href="https://roadtransport.news/tags/telematics/">telematics</a>, batteries and more.</p>
-<p>Other focus areas of news include:</p>
-<ul>
-<li><a href="https://roadtransport.news/tags/driver-training/">Driver Training</a></li>
-<li><a href="https://roadtransport.news/tags/national-roads/">National Roads</a> and</li>
-<li><a href="https://roadtransport.news/tags/logistics/"></a><a href="https://roadtransport.news/tags/truck-sales/">Truck Sales</a></li>
-</ul>
-<p>We also publish opinion pieces by thought leaders in the road transport sector.</p>
-<p><a href="https://g.page/road-transport-news-za" target="_blank" rel="noopener noreferrer">The business</a> is the brainchild of <a href="https://www.linkedin.com/in/tristanwiggill/" target="_blank" rel="noopener noreferrer">Tristan Wiggill</a>, a highly experienced editor, journalist and publisher who has worked in the transport and logistics media industry since 2013. </p>
-<p>Tristan is the former editor of Transport World Africa and Trucks &amp; Heavy Equipment magazines.</p>
-<p>Please free to send us any related industry news and opinion to <a href="mailto:tristan@roadtransport.news">tristan@roadtransport.news</a> for possible publication.</p>
-<p>We also have a number of great <a href="https://roadtransport.news/advertise-on-road-transport-news/">advertising opportunities</a> available to you! </p>
             ]]>
         </content>
     </entry>
