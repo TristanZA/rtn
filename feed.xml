@@ -3,12 +3,54 @@
     <title>feed</title>
     <link href="https://roadtransport.news/feed.xml" rel="self" />
     <link href="https://roadtransport.news" />
-    <updated>2021-02-21T16:43:15+02:00</updated>
+    <updated>2021-02-26T10:50:41+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://roadtransport.news</id>
 
+    <entry>
+        <title>Ctrack acquired by Convergence Partners</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://roadtransport.news/ctrack-acquired-by-convergence-partners/"/>
+        <id>https://roadtransport.news/ctrack-acquired-by-convergence-partners/</id>
+            <category term="Telematics"/>
+            <category term="Press Release"/>
+
+        <updated>2021-02-26T10:50:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://roadtransport.news/media/posts/24/Ctrack_RGB_Logo_Color_Small.jpg" alt="Ctrack SA logo" />
+                    Ctrack South Africa will break away from Inseego following a purchase by investment management firm Convergence Partners. Convergence Partners will purchase the shares of the current South African entities. Inseego&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://roadtransport.news/media/posts/24/Ctrack_RGB_Logo_Color_Small.jpg" alt="Ctrack SA logo" />
+                <p><strong>Ctrack South Africa will break away from Inseego following a purchase by investment management firm Convergence Partners. </strong></p>
+<p><span data-preserver-spaces="true">Convergence Partners will purchase the shares of the current South African entities.</span></p>
+<p><span data-preserver-spaces="true">Inseego decided to divest Ctrack following a new demand on technology and Inseego’s 5G business, accelerated by the recent global pandemic. </span></p>
+<p><span data-preserver-spaces="true">A strategy to focus on target markets that are closely aligned with their 5G business growth.</span></p>
+<p><span data-preserver-spaces="true">“We believe that this new partnership will bring a wealth of business knowledge and envisage many opportunities and positive synergies to benefit our business in general,” explains Hein Jordt, managing director of Ctrack SA.</span></p>
+<p><span data-preserver-spaces="true">“Our continued growth and success are what has enabled us to show favourable results, a motivator for Convergence Partners to invest during these times.” </span></p>
+<p><strong>Watch:</strong> Ctrack and Vehicle Tracking</p>
+<figure class="post__video"><iframe loading="lazy" width="800" height="449" src="https://www.youtube.com/embed/FyiRwj7uuCc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p><span data-preserver-spaces="true">The business will continue in its current form and retain the Ctrack brand name, which spans 30 years. </span></p>
+<p><span data-preserver-spaces="true">Ctrack will continue to use their brand and related product names in the markets they serve.</span></p>
+<p><span data-preserver-spaces="true">It will expand into new territories in Africa and the Middle East while developing world-class technologies for its customers.</span></p>
+<p><span data-preserver-spaces="true">“Our interest in the business relates to its proven market leader in the development of analytics solutions using big data extracted from the cloud platform,” says Mr Andile Ngcaba, chairman of Convergence Partners.</span></p>
+<p><span data-preserver-spaces="true">“We believe that our ownership of Ctrack will catalyze to enhance and accelerate its digital ambitions further,” Ngcaba concluded.</span></p>
+<p><span data-preserver-spaces="true">“Ctrack’s IOT and data analytics capabilities are a key component of an emerging sector in Africa and a good fit with our strategy of identifying high growth market players that build digital infrastructure in the Continent,” adds Brandon Doyle, CEO of Convergence Partners.</span></p>
+<p><span data-preserver-spaces="true">“We believe our expertise can elevate the Ctrack business to new heights.” </span></p>
+<p><span data-preserver-spaces="true">“The management of Ctrack are confident this new partnership will open up a gateway of opportunities for the business. The company is better positioned to move forward and capture market opportunities,” concluded Jordt.</span></p>
+<p><span data-preserver-spaces="true">The transaction is subject to receipt of regulatory approvals and other closing conditions. It is expected to close during the second quarter of 2021.</span></p>
+<p><strong>Now read:</strong> <a href="#INTERNAL_LINK#/post/null">Telematics eases vaccine rollout</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cross-border Trucking Remains Dire</title>
         <author>
@@ -357,37 +399,6 @@
 <p>Huge administrative resources will be required to implement and sustain an antiquated and cumbersome system, putting additional burdens on already-overburdened government authorities and the private sector.<br><br>The <a href="https://www.rtmc.co.za/" target="_blank" rel="noopener noreferrer">Road Traffic Management Corporation </a>(RTMC) – another Agency of the Department of Transport – already costs motorists hundreds of millions of Rand per annum through the levy imposed on all <a href="http://www.enatis.com/" target="_blank" rel="noopener noreferrer">eNatis </a>transactions.</p>
 <p>This was supposed to be a temporary measure to get the RTMC on its feet. Like all other levies,  this has become permanent with no added value to citizens.</p>
 <p>The RTMC needs to step up and do its job, that is, manage road traffic according to proper traffic management strategies with effective centralised road safety interventions and operational management.<br><br>The RFA believes that proper traffic management strategies which focus resources to address hazardous locations and other aspects of unsafe road behaviour would be far more effective in improving road safety – rather than the current cumbersome AARTO system being proposed.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>More MB Truck Models Get Fleetboard </title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://roadtransport.news/more-mb-truck-models-get-fleetboard/"/>
-        <id>https://roadtransport.news/more-mb-truck-models-get-fleetboard/</id>
-            <category term="Telematics"/>
-            <category term="Press Release"/>
-
-        <updated>2021-02-14T18:29:47+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://roadtransport.news/media/posts/14/MB-Trucks-Fleetboard.jpg" alt="Mercedes-Benz Fleetboard" />
-                    Fleetboard from Mercedes-Benz Trucks is now part of the package for the Actros and selected Arocs distribution models. Fleetboard has been offered on the Actros range since 2009 and is&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://roadtransport.news/media/posts/14/MB-Trucks-Fleetboard.jpg" alt="Mercedes-Benz Fleetboard" />
-                <p><strong><a href="https://www.fleetboard.info/#/" target="_blank" rel="noopener noreferrer">Fleetboard</a> from Mercedes-Benz Trucks is now part of the package for the Actros and selected Arocs distribution models.</strong></p>
-<p>Fleetboard has been offered on the Actros range since 2009 and is today not only available as a serial standard on the selected Mercedes-Benz Trucks models, it is also available for other vehicle makes as well.<br><br>Efficiency is the sum of the details; Fleetboard is geared to take RoadEfficiency to the next level through its unique service offerings to ensure lower total cost, greater safety and maximised use for customers.</p>
-<p><strong>Watch:</strong> How does Fleetboard work?</p>
-<figure class="post__video"><iframe loading="lazy" width="800" height="449" src="https://www.youtube.com/embed/Ph-3whc2rNE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Available in South Africa for many years, the Fleetboard system has established itself as a leading telematics solution for Mercedes-Benz Truck customers.</p>
-<p><strong>Related: <span style="color: #e50303;"><a href="https://roadtransport.news/telematics-eases-vaccine-rollout/" style="color: #e50303;">Telematics Eases Vaccine Rollout</a></span></strong><a href="https://roadtransport.news/telematics-eases-vaccine-rollout/"></a></p>
-<p>Boasting multiple benefits such as performance analysis and reports for vehicles and drivers, mapping and trip records including accurate fuel consumption, service and maintenance management as well as expert training and analysis.<br><br><a href="https://www.mercedes-benz-trucks.com/en_ZA/home.html" target="_blank" rel="noopener noreferrer">Mercedes-Benz Trucks Southern Africa</a> understands that managing a fleet can be stressful and hard to keep up with, and believes that this strategic decision will be beneficial to customers within the long-haul and distribution segment.</p>
-<p>Effective utilisation of the system within these industries means that the truck can go further for longer, contributing to added savings in the long-run.<br><br>This is a significant step for the brand that is set to substantially benefit fleet owners and their respective drivers, as they efficiently run their fleet across Southern Africa.</p>
             ]]>
         </content>
     </entry>
