@@ -3,7 +3,7 @@
     <title>feed</title>
     <link href="https://roadtransport.news/feed.xml" rel="self" />
     <link href="https://roadtransport.news" />
-    <updated>2021-02-26T11:01:05+02:00</updated>
+    <updated>2021-02-26T11:26:35+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
@@ -19,16 +19,14 @@
             <category term="Telematics"/>
             <category term="Press Release"/>
 
-        <updated>2021-02-26T11:01:05+02:00</updated>
+        <updated>2021-02-26T11:26:35+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://roadtransport.news/media/posts/24/Ctrack_RGB_Logo_Color_Small.jpg" alt="Ctrack SA logo" />
                     Ctrack South Africa will break away from Inseego following a purchase by investment management firm Convergence Partners. Convergence Partners will purchase the shares of the current South African entities. Inseego&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://roadtransport.news/media/posts/24/Ctrack_RGB_Logo_Color_Small.jpg" alt="Ctrack SA logo" />
                 <p><strong>Ctrack South Africa will break away from Inseego following a purchase by investment management firm Convergence Partners. </strong></p>
 <p><span data-preserver-spaces="true">Convergence Partners will purchase the shares of the current South African entities.</span></p>
 <p><span data-preserver-spaces="true">Inseego decided to divest Ctrack following a new demand on technology and Inseego’s 5G business, accelerated by the recent global pandemic. </span></p>
